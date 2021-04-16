@@ -1,1 +1,3 @@
-start "" "projects/Processing-NN_FlappyBird/index/index.pde"
+@echo off
+cls
+python build.py %*
